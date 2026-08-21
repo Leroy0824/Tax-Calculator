@@ -1,2 +1,1 @@
-# Tax-Calculator
-See Readme
+There are two Python scripts, called Tax Sim Final.py and Tax Sim.py. The Tax Sim.py file allows us to compute income after tax based on savings, different allowances, and dividends. It considers savings from multiple joint accounts and allowances such as marriage allowance and blind person’s allowance. The Tax Sim Final.py file is the same as Tax Sim.py, but it also considers student loan repayments and National Insurance. It also supports multiple student loan plans.
